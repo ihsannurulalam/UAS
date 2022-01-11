@@ -36,20 +36,35 @@ untuk melihat daftar nilai yang telah kita tambahkan klik L (list) maka akan mun
 
 
 3. Untuk mengubah data 
+
+
 ![gambar4](screenshot/edit.png)
+
+
 
 untuk mengubah data yang telah kita tambahkan maka klik E (edit) pada keyboard anda. Seperti di contohkan pada gambar tersebut, saya mengubah nilai dari Jandia Eka.
 
 
+
 4. Untuk mencari data
+
+
 ![gambar5](screenshot/cari.png)
+
+
 
 Untuk mencari data nama atau nilai maka klik S (search/cari)
 lalu masukan nama yang ingin kita cari seperti dicontohkan pada gambar saya mencari data atas nama Rachel.
 
 
+
 5. Untuk menghapus data
+
+
 ![gambar6](screenshot/hapus.png)
+
+
+
 
 untuk menghapus data maka klik D (delete/hapus) seperti dicontohkan pada gambar saya meghapus data atas nama Ihsan Nurul Alam maka secara otomatis data tersebut akan terhapus.
 ### TERIMAKASIH
