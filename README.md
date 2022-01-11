@@ -2,6 +2,8 @@
 Soal!
 Buatlah package dan modul dengan struktur seperti berikut:
 ![gambar1](screenshot/soal.png)
+
+
 Kemudian buat file README.md yang berisi penjelasan dan screenshot hasil eksekusi
 program. Lalu upload ke repository github masing-masing.
 ## PENYELESAIAN
